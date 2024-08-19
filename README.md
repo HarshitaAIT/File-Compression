@@ -7,7 +7,7 @@ About
 
 Huffman Algorithm is an efficient way for file Compression and Decompression.
 This program exactly follows huffman algorithm. It reads frequent characters from input file and replace it with shorter binary codeword.
-The original file can be produced again without loosing any bit.
+The original file can be produced again without loosing any bit
 
 Usage
 =====
